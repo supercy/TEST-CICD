@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    test
+    test CICD
   </div>
 </template>
 
