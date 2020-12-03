@@ -1,5 +1,6 @@
 <template>
   <div class="hello">
+    <p>{{msg}}</p>
     CICD成功
   </div>
 </template>
