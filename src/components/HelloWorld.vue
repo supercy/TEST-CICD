@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    test CICD
+    CICD成功
   </div>
 </template>
 
