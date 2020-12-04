@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <p>{{msg}}</p>
-    CICD成功
+    CICD成功66666666
   </div>
 </template>
 
